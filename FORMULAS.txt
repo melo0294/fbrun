@@ -1,0 +1,13 @@
+----- TAXA METABÓLICA BASAL -----
+Para os homens = 66 + (13,8 x peso em kg) + (5 x altura em cm) – (6,8 x idade em anos) 
+Para as mulheres = 655 + (9,6 x peso em kg) + (1,8 x altura em cm) – (4,7 x idade em anos)
+
+----- CALORIAS POR MINUTO -----
+Basta multiplicar: velocidade (em km/h) x peso (kg) x 0,0175. Um indivíduo de 78 kg, por exemplo, 
+correndo a uma velocidade de 8 km/h, gasta 10,92 calorias por minuto (8 x 78 x 0,0175). 
+Uma corrida de 1 hora nessa velocidade consome 637,2 calorias.
+
+----- PACE PARA KM/H -----
+Velocidade (km/h)= 60 / PACE
+
+
